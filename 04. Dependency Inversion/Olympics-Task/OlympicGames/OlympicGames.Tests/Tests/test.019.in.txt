@@ -1,0 +1,4 @@
+createboxer Anthony Joshua USA lightweight 20 1
+createsprinter Usain Bolt Jamaica 100/9.58 200/19.19
+listolympians
+end

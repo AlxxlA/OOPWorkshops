@@ -1,0 +1,22 @@
+Created Boxer
+BOXER: Anthony Joshua from USA
+Category: Lightweight
+Wins: 20
+Losses: 1
+####################
+Created Sprinter
+SPRINTER: Usain Bolt from Jamaica
+PERSONAL RECORDS:
+100m: 9.58s
+200m: 19.19s
+####################
+Sorted by [key: firstname] in [order: asc]
+BOXER: Anthony Joshua from USA
+Category: Lightweight
+Wins: 20
+Losses: 1
+SPRINTER: Usain Bolt from Jamaica
+PERSONAL RECORDS:
+100m: 9.58s
+200m: 19.19s
+####################

@@ -1,0 +1,2 @@
+createboxer Anthony Joshua USA heavyweight test 1
+end

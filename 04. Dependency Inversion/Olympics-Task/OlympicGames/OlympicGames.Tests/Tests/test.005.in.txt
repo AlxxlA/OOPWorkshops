@@ -1,0 +1,2 @@
+createboxer Anthony Joshua USA lightweight 10 -1
+end

@@ -1,0 +1,14 @@
+listolympians
+createboxer Wladimir Klitschko Ukraine heavyweight 64 5
+createboxer Anthony Joshua GreatBritain heavyweight 19 0
+listolympians firstname
+createsprinter Usain Bolt Jamaica 100/9.58 200/19.19
+listolympians
+createsprinter Asaffa Powell
+createsprinter Asaffa Powell Jamaica 100/9.72 200/19.90
+createsprinter U Bolt Jamaica
+createsprinter Usain Bolt Ja
+listolympians lastname desc
+createsprinter Tyson Gay USA
+listolympians
+end

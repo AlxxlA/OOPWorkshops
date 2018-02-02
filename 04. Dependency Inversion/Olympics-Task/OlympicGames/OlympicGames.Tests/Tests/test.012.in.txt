@@ -1,0 +1,2 @@
+createboxer Anthony Joshua US lightweight 20 1
+end

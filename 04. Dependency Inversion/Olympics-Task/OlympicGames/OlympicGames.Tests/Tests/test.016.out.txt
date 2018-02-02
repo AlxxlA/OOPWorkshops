@@ -1,0 +1,6 @@
+Created Sprinter
+SPRINTER: Usain Bolt from Jamaica
+PERSONAL RECORDS:
+100m: 9.58s
+200m: 19.19s
+####################

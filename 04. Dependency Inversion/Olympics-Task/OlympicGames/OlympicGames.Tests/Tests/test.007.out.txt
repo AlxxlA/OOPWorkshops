@@ -1,0 +1,6 @@
+Created Boxer
+BOXER: Anthony Joshua from USA
+Category: Lightweight
+Wins: 20
+Losses: 1
+####################

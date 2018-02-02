@@ -1,0 +1,95 @@
+NO OLYMPIANS ADDED
+####################
+Created Boxer
+BOXER: Wladimir Klitschko from Ukraine
+Category: Heavyweight
+Wins: 64
+Losses: 5
+####################
+Created Boxer
+BOXER: Anthony Joshua from GreatBritain
+Category: Heavyweight
+Wins: 19
+Losses: 0
+####################
+Sorted by [key: firstname] in [order: asc]
+BOXER: Anthony Joshua from GreatBritain
+Category: Heavyweight
+Wins: 19
+Losses: 0
+BOXER: Wladimir Klitschko from Ukraine
+Category: Heavyweight
+Wins: 64
+Losses: 5
+####################
+Created Sprinter
+SPRINTER: Usain Bolt from Jamaica
+PERSONAL RECORDS:
+100m: 9.58s
+200m: 19.19s
+####################
+Sorted by [key: firstname] in [order: asc]
+BOXER: Anthony Joshua from GreatBritain
+Category: Heavyweight
+Wins: 19
+Losses: 0
+SPRINTER: Usain Bolt from Jamaica
+PERSONAL RECORDS:
+100m: 9.58s
+200m: 19.19s
+BOXER: Wladimir Klitschko from Ukraine
+Category: Heavyweight
+Wins: 64
+Losses: 5
+####################
+ERROR: Parameters count is not valid!
+Created Sprinter
+SPRINTER: Asaffa Powell from Jamaica
+PERSONAL RECORDS:
+100m: 9.72s
+200m: 19.9s
+####################
+ERROR: First name must be between 2 and 20 characters long!
+ERROR: Country must be between 3 and 25 characters long!
+Sorted by [key: lastname] in [order: desc]
+SPRINTER: Asaffa Powell from Jamaica
+PERSONAL RECORDS:
+100m: 9.72s
+200m: 19.9s
+BOXER: Wladimir Klitschko from Ukraine
+Category: Heavyweight
+Wins: 64
+Losses: 5
+BOXER: Anthony Joshua from GreatBritain
+Category: Heavyweight
+Wins: 19
+Losses: 0
+SPRINTER: Usain Bolt from Jamaica
+PERSONAL RECORDS:
+100m: 9.58s
+200m: 19.19s
+####################
+Created Sprinter
+SPRINTER: Tyson Gay from USA
+NO PERSONAL RECORDS SET
+####################
+Sorted by [key: firstname] in [order: asc]
+BOXER: Anthony Joshua from GreatBritain
+Category: Heavyweight
+Wins: 19
+Losses: 0
+SPRINTER: Asaffa Powell from Jamaica
+PERSONAL RECORDS:
+100m: 9.72s
+200m: 19.9s
+SPRINTER: Tyson Gay from USA
+NO PERSONAL RECORDS SET
+SPRINTER: Usain Bolt from Jamaica
+PERSONAL RECORDS:
+100m: 9.58s
+200m: 19.19s
+BOXER: Wladimir Klitschko from Ukraine
+Category: Heavyweight
+Wins: 64
+Losses: 5
+####################
